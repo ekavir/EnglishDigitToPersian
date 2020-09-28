@@ -6,12 +6,14 @@ For use this library simply add this Code to your gradle.build:
 
 First Add Maven Repository :
 
-allprojects {
+
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
+
   
  Then Add dependencies:
  
