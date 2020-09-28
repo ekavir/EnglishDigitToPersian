@@ -1,0 +1,2 @@
+include ':app', ':englishtopersiandigit'
+rootProject.name='EnglishDigitToPersian'
